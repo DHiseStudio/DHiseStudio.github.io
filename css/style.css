@@ -15,6 +15,6 @@ body{background-color: #e4eaf7}
 .card{text-align: center; padding: 25px; background-color: white; margin-left: 20px; margin-right: 20px; border-radius: 5px}
 .card h4{color: gray}
 .card:hover{box-shadow: 5px 5px 5px 5px #7777}
-.down{width: 100vw; height: 3vw; position: absolute; vertical-align: middle; background-color: #42AAFF; top: 44.5vw; text-align: center}
+.down{width: 100vw; height: 3vw; position: absolute; vertical-align: middle; background-color: #42AAFF; top: 100%; text-align: center}
 .down a{margin-left: 20px; margin-right: 20px; margin-top: 5px}
 .ss{position: absolute;right: 45%}
